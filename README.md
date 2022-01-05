@@ -9,11 +9,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jordiprats&count_private=true&show_icons=true&theme=nightowl" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordiprats&hide=javascript,html,css&theme=nightowl" />
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jordiprats&theme=onedark" />
-
-
 ## Some contributions to OpenSource
 
 * **MySQL**: Added variable to set a given amount of **SUPER connections** to be allowed when **max_connections** is reached. To be merged in the upcoming MySQL release [bug 71362](https://bugs.mysql.com/bug.php?id=71362)
