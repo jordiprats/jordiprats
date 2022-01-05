@@ -2,7 +2,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jordiprats&count_private=true&show_icons=true&theme=nightowl" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jordiprats&count_private=true&show_icons=true&theme=dark" />
 
 ## 📫 Where to find me
 
