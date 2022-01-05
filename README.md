@@ -1,16 +1,16 @@
 # Jordi Prats
 
-## 📫 Where to find me
-
-[![Linkedin: jordi-prats](https://img.shields.io/badge/-JordiPrats-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordipratscatala/)](https://www.linkedin.com/in/jordipratscatala/)
-[![pet2cattle](https://img.shields.io/badge/-pet2cattle-blue?style=plastic&logo=Kubernetes&logoColor=white&link=https://pet2cattle.com)](https://pet2cattle.com)
-
-
 ## 📈 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jordiprats&count_private=true&show_icons=true&theme=nightowl" />
 
-## Some contributions to OpenSource
+## 📫 Where to find me
+
+[![Linkedin: jordi-prats](https://img.shields.io/badge/-JordiPrats-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordipratscatala/)](https://www.linkedin.com/in/jordipratscatala/)
+[![pet2cattle](https://img.shields.io/badge/-pet2cattle-blue?style=plastic&logo=Kubernetes&logoColor=white&link=https://pet2cattle.com)](https://pet2cattle.com)
+  
+  
+## ⚡ Some contributions to OpenSource software
 
 * **MySQL**: Added variable to set a given amount of **SUPER connections** to be allowed when **max_connections** is reached. To be merged in the upcoming MySQL release [bug 71362](https://bugs.mysql.com/bug.php?id=71362)
 * **MySQL**: A new variable is added to record the time when **Max_used_connections** is updated. Merged into **MySQL 5.7.5** [CHANGELOG MySQL 5.7.5](https://dev.mysql.com/doc/relnotes/mysql/5.7/en/news-5-7-5.html)
