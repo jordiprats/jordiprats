@@ -2,7 +2,8 @@
 
 ## 📫 Where to find me
 
-[![Linkedin: christopher-yocum](https://img.shields.io/badge/-JordiPrats-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordipratscatala/)](https://www.linkedin.com/in/jordipratscatala/)
+[![Linkedin: jordi-prats](https://img.shields.io/badge/-JordiPrats-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordipratscatala/)](https://www.linkedin.com/in/jordipratscatala/)
+[![pet2cattle](https://img.shields.io/badge/-JordiPrats-#326CE5?style=flat&logo=Linkedin&logoColor=white&link=https://pet2cattle.com)](https://pet2cattle.com)
 
 
 ## 📈 GitHub Stats
