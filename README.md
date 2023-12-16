@@ -1,6 +1,6 @@
 # Jordi Prats
 
-## 📈 GitHub Stats
+## Skills
 
 ![My Skills](https://skillicons.dev/icons?i=py,go,kubernetes,linux,aws,mysql,postgres&theme=light)
 
