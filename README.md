@@ -2,7 +2,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jordiprats&count_private=true&show_icons=true&theme=highcontrast" />
+![My Skills](https://skillicons.dev/icons?i=py,go,kubernetes,linux,aws,mysql,postgres&theme=light)
 
 ## 📫 Where to find me
 
