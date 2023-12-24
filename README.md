@@ -2,7 +2,7 @@
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=py,go,kubernetes,linux,aws,mysql,postgres&theme=light)
+![My Skills](https://skillicons.dev/icons?i=kubernetes,go,py,linux,aws,mysql,postgres&theme=light)
 
 ## 📫 Where to find me
 
