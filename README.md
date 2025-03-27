@@ -1,5 +1,10 @@
 # Jordi Prats
 
+<div align="center">
+<img src="https://media.tenor.com/eQwO6O3VKfAAAAAM/angry-typing.gif" alt="typing" width="30%" />
+</div>
+
+
 ## Skills
 
 ![My Skills](https://skillicons.dev/icons?i=kubernetes,go,py,ts,linux,aws,mysql,postgres&theme=light)
