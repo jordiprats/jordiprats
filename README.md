@@ -8,7 +8,7 @@
 ## Skills
 
 ![My Skills](https://skillicons.dev/icons?i=kubernetes,go,py,ts,linux,aws,mysql,postgres&theme=light)
-<img src="[https://media.tenor.com/eQwO6O3VKfAAAAAM/angry-typing.gif](https://skillicons.dev/icons?i=kubernetes,go,py,ts,linux,aws,mysql,postgres&theme=light)" alt="skills" />
+<img src="https://skillicons.dev/icons?i=kubernetes,go,py,ts,linux,aws,mysql,postgres&theme=light" alt="skills" />
 
 ## 📫 Where to find me
 
