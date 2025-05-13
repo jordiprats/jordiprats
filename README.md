@@ -7,7 +7,7 @@
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=kubernetes,go,py,ts,linux,aws,mysql,postgres&theme=light" alt="skills" />
+<img src="https://skillicons.dev/icons?i=kubernetes,go,py,ts,linux,aws,postgres,mysql&theme=light" alt="skills" />
 
 ## 📫 Where to find me
 
