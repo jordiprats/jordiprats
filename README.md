@@ -12,4 +12,3 @@
 ## 📫 Where to find me
 
 [![Linkedin: jordi-prats](https://img.shields.io/badge/linkedin-Jordi_Prats-blue)](https://www.linkedin.com/in/jordipratscatala/)
-[![pet2cattle](https://img.shields.io/badge/-pet2cattle-blue?logo=Kubernetes&logoColor=white)](https://pet2cattle.com)
